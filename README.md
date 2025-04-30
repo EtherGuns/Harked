@@ -1,7 +1,7 @@
 # Harked
 Blooket cheat thing im making for fun
 will take time to make
-(for now just use https://blooket.me)
+(for now just use https://blooketbot.me)
 
 ## Features (planned)
 - the regular stuff like set cash, set crypto, etc
